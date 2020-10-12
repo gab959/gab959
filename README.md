@@ -4,7 +4,7 @@
 **gab959/gab959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a 24 year-old back-end / fullstack engineer based in Lyon, France 🇫🇷
+I'm a 24 year-old back-end / fullstack engineer based in Lyon, France 🇫🇷 \
 I'm always ready to rise to new challenges all over the world 🚀
 
 
