@@ -8,7 +8,7 @@ I'm a 24 year-old back-end / fullstack engineer based in Lyon, France 🇫🇷 \
 I'm always ready to rise to new challenges all over the world 🚀
 
 
-- 🔭 I’m currently working on launching my freelancing carreer
+- 🔭 I’m currently working on launching my freelancing career
 - 🌱 I’m currently learning Django
 - 💬 Ask me why I'm the perfect developer for your mission 
 <!-- - 📫 How to reach me: send me a message on my website -> gabriel-ennuyer.dev -->
